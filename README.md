@@ -1,3 +1,10 @@
+# DEMO [live](https://nextjs-facebook-clone-beige.vercel.app/)
+
+# Scrennshots
+![fb](https://user-images.githubusercontent.com/66422819/123856329-ae47af80-d940-11eb-9754-39f0eb7cfd38.png)
+![fbs](https://user-images.githubusercontent.com/66422819/123856337-b273cd00-d940-11eb-8b9a-a2649c2b1b54.png)
+
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) (v2.1) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
